@@ -1,9 +1,11 @@
-{
-  "messages": [
-    "Hello! How can I help you?",
-    "Hope you're doing well!",
-    "Did you need assistance?",
-    "I'm here if you need anything.",
-    "Feel free to ask anything!"
-  ]
-}
+[
+	"Hello! How can I help you?",
+	"Hope you're doing well!",
+	"Did you need assistance?",
+	"I'm here if you need anything.",
+	"Feel free to ask anything!",
+	"Just tag me if you need help!",
+	"How's everything going?",
+	"Need any support?",
+	"Happy to assist you!"
+]
